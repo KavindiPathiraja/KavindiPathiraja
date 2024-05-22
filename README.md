@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kavindi Pathiraja</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hwZXdvdTg5azloajZjNXE3azZ2MXIxbnh6eHZmOHo0Nm9rNDIxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindipathiraja&label=Profile%20views&color=0e75b6&style=flat" alt="kavindipathiraja" /> </p>
 
 - 🌱 I’m currently learning **Java , Kotlin , Python**
@@ -20,9 +24,11 @@
 <div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; color: #c9d1d9;">
 
   <!-- Profile Introduction -->
-  <h1 style="color: #58a6ff;">Hi, I'm Kavindi Pathiraja</h1>
+  
   <p>Full Stack Developer | Mobile App Developer | Open Source Enthusiast</p>
-
+  <br />
+  <hr />
+  <br />
   <!-- Languages and Tools Section -->
   <h3>Languages and Tools:</h3>
   <p>
@@ -91,14 +97,31 @@
     </a>
   </p>
 
+<br />
   <!-- GitHub Stats Section -->
   <h3>GitHub Stats:</h3>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindipathiraja&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api?username=kavindipathiraja&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-    <br /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindipathiraja&theme=dark" alt="GitHub Streak" />
-  </div>
+ 
+
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
   
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindipathiraja&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br></br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindipathiraja&theme=dark" alt="GitHub Streak" />
+</td>
+
+<td width="50%" align="center">
+
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kavindipathiraja&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
 </div>
