@@ -121,7 +121,19 @@
   
   </td>
 </tr>
+
 </table>
 <!--- stats (end) -->
+<br></br>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=kavindipathiraja&theme=darkhub" alt="kavindipathiraja" />
+  </a>
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
 
 </div>
