@@ -17,7 +17,7 @@
 </p>
 
 <!-- Dark background styling -->
-<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; color: #c9d1d9;">
+<div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; color: #c9d1d9;">
 
   <!-- Profile Introduction -->
   <h1 style="color: #58a6ff;">Hi, I'm Kavindi Pathiraja</h1>
@@ -93,13 +93,12 @@
 
   <!-- GitHub Stats Section -->
   <h3>GitHub Stats:</h3>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindipathiraja&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 20px;" />
-    <br/><br/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindipathiraja&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    <br /><br />
     <img src="https://github-readme-stats.vercel.app/api?username=kavindipathiraja&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <br /><br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindipathiraja&theme=dark" alt="GitHub Streak" />
   </div>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindipathiraja&theme=dark" alt="GitHub Streak" />
   
 </div>
-
