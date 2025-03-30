@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservices , Docker, Kubernetes**
 
-- 💬 Ask me about **react, MERN , springboot, PHP, **
+- 💬 Ask me about **react.js, node.js, express, javascript, kotlin, springboot, PHP, java **
 
 - 📫 How to reach me **kavindipathiraja117@gmail.com**
 
