@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindipathiraja&label=Profile%20views&color=0e75b6&style=flat" alt="kavindipathiraja" /> </p>
 
-- 🌱 I’m currently learning **Java , Kotlin , Python**
+- 🌱 I’m currently learning **Microservices , Docker, Kubernetes**
 
-- 💬 Ask me about **react , MERN**
+- 💬 Ask me about **react, MERN , springboot, PHP, **
 
 - 📫 How to reach me **kavindipathiraja117@gmail.com**
 
